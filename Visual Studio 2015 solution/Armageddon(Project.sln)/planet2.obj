@@ -1,0 +1,20 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+mtllib RQ36-Asteroid.obj.mtl
+
+# 9122 vertex positions
+v  21.2219 -649.652 -1.39095
+v  21.2674 -649.652 0
+v  0 -650 0
+
+# 9124 vertex normals
+vn 0.0380873 -0.999271 -0.00249637
+vn 0.0327182 -0.999465 2.91077e-11
+vn 0.00990842 -0.999937 -0.0053092
+vn 0.0324383 -0.999465 -0.00427058
+
+# Mesh 'Layer_0' with 18240 faces
+g Layer_0
+usemtl rq36
+f  111//444 222//555 333//666

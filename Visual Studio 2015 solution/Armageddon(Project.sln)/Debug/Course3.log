@@ -1,0 +1,6 @@
+﻿  visuals.cpp
+c:\users\δημήτρης\desktop\graphics\visual studio 2015 solution\armageddon(project.sln)\visuals.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Course3.vcxproj -> C:\Users\Δημήτρης\Desktop\Graphics\Visual Studio 2015 solution\Armageddon(Project.sln)\Debug\Armaggedon.exe
